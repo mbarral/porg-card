@@ -1,0 +1,42 @@
+.card {
+  border: 2px solid black;
+  border-radius: 7px;
+  width: 300px;
+  height: auto;
+  margin: auto;
+  padding: 8px;
+  box-shadow: 5px 10px 8px #d3d3d3;
+  background-image: linear-gradient(to top right, #33B5E5, #77ceee, #178ab4, #335ce5);
+}
+
+h3 {
+  font-family: Courier, monospace;
+  text-align: center;
+}
+
+img {border-radius: 7px;
+  box-shadow: 1px 1px 8px black;
+  margin-bottom: 8px;
+}
+
+.infobox { border: 1px solid black;
+  border-radius: 7px;
+  padding: 5px;
+  height: auto;
+  margin: auto;
+  font-family: Courier, monospace;
+  font-size: 12px;
+  box-shadow: 1px 1px 8px black;
+  background-color: rgb(211,211,211,.4);
+}
+
+.fact { font-style: italic;
+  margin: 5px;
+}
+
+ul {list-style: none;
+padding-left: 5px; }
+
+.listbold { font-weight: bold; }
+
+.description { margin: 5px; }
